@@ -32,7 +32,7 @@ Please file any issues, bugs, or feature requests in the each individual repo.
 This repo uses sub modules to keep all the repos in one place as a mono repo but retaining the advantages of individual repos.
 
 If you wish to contribute a change to any of the existing plugins in this repo,
-please review our [contribution guide](https://github.com/rodydavis/plugins/blob/master/CONTRIBUTING.md),
+please review our [contribution guide](https://github.com/Kijacode/dart-plugins),
 and send a pull request for the specific repo.
 
 ## Troubleshooting
