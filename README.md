@@ -18,9 +18,10 @@ Published on [pub.dev via Danford David](https://pub.dev/my-packages)
 | Name | Package |
 | --- | --- |
 | [auth_screen_lock](https://pub.dev/packages/auth_screen_lock) | [![auth_screen_lock - 1.0.5](https://img.shields.io/badge/auth__screen__lock-1.0.5-2ea44f)](https://)|
-| [neumorphic_ui ](https://pub.dev/packages/neumorphic_ui) | [![neumorphic_ui  - 1.0.o](https://img.shields.io/badge/neumorphic__ui_-1.0.o-2ea44f)](https://) |
-
+| [neumorphic_ui ](https://pub.dev/packages/neumorphic_ui) | [![neumorphic_ui  - 1.0.o](https://img.shields.io/badge/neumorphic__ui_-1.0.o-2ea44f)](https://) 
+| [ platform_device_id ](https://github.com/Kijacode/platform_device_id.git) | [![ platform_device_id  - v1](https://img.shields.io/badge/_platform__device__id_-v1-2ea44f)](https://)|
 <!-- END_PACKAGES -->
+
 
 ## Issues
 
