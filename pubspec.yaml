@@ -1,0 +1,7 @@
+name: dart_plugins_workspace
+repository: https://github.com/Kijacode/dart-plugins.git
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+dev_dependencies:
+  melos: ^3.1.1

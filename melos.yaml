@@ -1,0 +1,13 @@
+name: Kijacode-plugins
+
+packages:
+  - packages/**
+  
+scripts:
+  analyze:
+    exec: dart analyze .
+
+ignore:
+  # e.g. ignore example apps
+  - 'packages/**/example'
+
