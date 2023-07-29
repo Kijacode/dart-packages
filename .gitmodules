@@ -1,0 +1,9 @@
+[submodule "packages/platform_device_id"]
+	path = packages/platform_device_id
+	url = https://github.com/Kijacode/platform_device_id.git
+[submodule "packages/neumorphic-ui"]
+	path = packages/neumorphic-ui
+	url = https://github.com/Kijacode/neumorphic-ui.git
+[submodule "packages/flutter_screen_lock"]
+	path = packages/flutter_screen_lock
+	url = https://github.com/Kijacode/flutter_screen_lock.git
