@@ -4,7 +4,7 @@
 [![melos](https://img.shields.io/badge/maintained%20with-melos-f700ff.svg?style=flat-square)](https://github.com/invertase/melos)
 
 This repo contains the source code for
-Flutter third-party plugins (i.e., plugins developed by Danford Kija).
+Flutter third-party plugins (i.e., plugins contributed by Danford Kija).
 Check the `packages` directory for all plugins.
 
 Flutter plugins enable access to platform-specific APIs. For more information
