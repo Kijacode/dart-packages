@@ -22,6 +22,13 @@ Published on [pub.dev via Danford David](https://pub.dev/my-packages)
 | [ platform_device_id ](https://github.com/Kijacode/platform_device_id.git) | [![ platform_device_id  - v1](https://img.shields.io/badge/_platform__device__id_-v1-2ea44f)](https://)|
 <!-- END_PACKAGES -->
 
+## git
+
+we use git subreference for package module references :
+
+```
+git submodule  .....
+```
 
 ## Issues
 
