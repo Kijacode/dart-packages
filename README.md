@@ -26,9 +26,7 @@ Published on [pub.dev via Danford David](https://pub.dev/my-packages)
 
 we use git subreference for package module references :
 
-```
-git submodule  .....
-```
+
 
 ## Issues
 
